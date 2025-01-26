@@ -31,7 +31,7 @@ git clone https://github.com/Dinakaran-k/FoodDeliveryApp.git
 3. Build and run the app on an Android device or emulator.
 
 
-###Usage
+## Usage
 1. Launch the app on your device.
 2. Browse through the available food items.
 3. Place an order and track its status in real-time.
