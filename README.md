@@ -1,6 +1,6 @@
-# FoodDeliveryApp
+# Food Delivery App
 
-FoodDeliveryApp is a Kotlin-based Android application designed to simplify food delivery. This app allows users to browse, order, and track their food deliveries.
+Food Delivery App is a Kotlin-based Android application designed to simplify food delivery. This app allows users to browse, order, and track their food deliveries.
 
 ## Features
 
