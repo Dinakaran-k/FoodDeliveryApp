@@ -7,6 +7,10 @@ Food Delivery App is a Kotlin-based Android application designed to simplify foo
 - **Splash Screen**: An engaging entry point for the app.
 - **Main Activity**: The main interface for browsing and managing orders.
 
+## Git Diagram
+![FoodDeliveryAppdiagram](https://github.com/user-attachments/assets/c6f640f7-b088-4143-ad8d-9bb32c2ff667)
+
+
 ## Technologies Used
 
 - **Kotlin**: The primary programming language.
